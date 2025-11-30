@@ -40,7 +40,7 @@ The analysis uses two CSV files:
 
 The analysis is organized into four main parts:
 
-### Part 1: Data Loading and Cleaning (12 points)
+### Part 1: Data Loading and Cleaning
 
 - Loading and initial exploration of datasets
 - Handling missing values (Year, Publisher, User_Score)
@@ -55,7 +55,7 @@ The analysis is organized into four main parts:
 - Converted 'tbd' strings to NaN in User_Score
 - Recalculated Global_Sales to match regional sum
 
-### Part 2: Exploratory Data Analysis (12 points)
+### Part 2: Exploratory Data Analysis
 
 - **Top Games Analysis:** Best-selling games and publishers
 - **Platform Analysis:** Games count, total sales, and average sales per platform
@@ -71,7 +71,7 @@ The analysis is organized into four main parts:
 - Most popular genre: Sports (282.53M total sales)
 - Peak year: 2014 (240.64M sales)
 
-### Part 3: Advanced Analysis (16 points)
+### Part 3: Advanced Analysis
 
 - **Regional Sales Analysis:** Market distribution and regional preferences
 - **Publisher Deep Dive:** Detailed analysis of top 5 publishers
@@ -87,7 +87,7 @@ The analysis is organized into four main parts:
 - User scores correlation with sales: 0.0433 (very weak)
 - Found many "hidden gems" (high scores, low sales) and "overhyped" games (low scores, high sales)
 
-### Part 4: Insights and Open Exploration (10 points)
+### Part 4: Insights and Open Exploration
 
 - **Platform Wars:** Comparison of console generations (PS2/Xbox/GameCube, PS3/Xbox360/Wii, PS4/XboxOne)
 - **Publisher Strategy:** Nintendo vs EA comparison
@@ -175,17 +175,6 @@ The analysis is organized into four main parts:
 6. **Industry Growth:** Massive expansion from 1980s to 2010s, with both volume and average sales per game increasing dramatically
 
 7. **Publisher Strategies:** EA focuses on volume with Sports franchises, while Nintendo has a more diverse portfolio
-
-## Assignment Requirements
-
-This project fulfills all requirements for the Video Game Sales Analysis assignment:
-
-- ✅ Part 1: Data Loading and Cleaning (12 points)
-- ✅ Part 2: Exploratory Data Analysis (12 points)
-- ✅ Part 3: Advanced Analysis (16 points)
-- ✅ Part 4: Insights and Open Exploration (10 points)
-
-**Total: 50 points**
 
 ## Notes
 
