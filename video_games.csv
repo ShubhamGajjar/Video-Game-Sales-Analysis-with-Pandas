@@ -1,0 +1,811 @@
+Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+Championship,DS,2017.0,Action,Capcom,0.04,0.03,0.01,0.0,0.08
+Quest,XOne,2013.0,Adventure,Microsoft,0.18,0.1,0.03,-0.0,0.31
+Warriors,DS,2015.0,Racing,Activision,1.08,0.73,0.49,-0.0,2.3
+Dark Quest,PS4,1985.0,Fighting,505 Games,0.14,0.09,0.02,0.0,0.25
+Adventure,PC,2005.0,Adventure,Take-Two Interactive,0.02,0.02,0.0,-0.0,0.05
+Championship,Switch,1998.0,Platform,Microsoft,0.02,0.02,0.0,-0.0,0.04
+Mega Championship,X360,2012.0,Action,Activision,0.13,0.11,0.03,0.0,0.27
+Tournament,PS3,2005.0,Shooter,Electronic Arts,1.12,0.89,0.09,-0.0,2.1
+Legends,PC,2020.0,Adventure,THQ,0.04,0.03,0.01,0.0,0.08
+Strike,PS3,1999.0,Action,505 Games,0.14,0.08,0.01,-0.0,0.23
+Extreme Sports,PS4,1996.0,Action,Electronic Arts,0.14,0.12,0.02,0.0,0.28
+Dark Legends,Switch,2018.0,Adventure,Nintendo,0.03,0.02,0.0,0.0,0.05
+Extreme Quest,WiiU,,Adventure,Atari,0.15,0.09,0.02,0.0,0.26
+Simulator,Wii,2006.0,Role-Playing,Electronic Arts,0.02,0.01,0.0,-0.0,0.03
+Simulator,PS3,2000.0,Shooter,Microsoft,0.32,0.19,0.06,-0.0,0.57
+Pro Tournament,PS4,2006.0,Racing,LucasArts,0.18,0.12,0.02,-0.0,0.32
+Mega Sports,PS2,2016.0,Platform,Microsoft,0.2,0.13,0.06,0.0,0.4
+Ultimate Championship,PS4,1991.0,Shooter,,0.2,0.13,0.01,0.0,0.34
+Legends,PC,2006.0,Platform,Nintendo,0.08,0.06,0.01,-0.0,0.15
+Heroes,Xbox,2005.0,Sports,Nintendo,0.05,0.03,0.01,-0.0,0.09
+Sports,Switch,2012.0,Role-Playing,Electronic Arts,0.18,0.13,0.04,-0.0,0.35
+Warriors,DS,2017.0,Action,Microsoft,0.51,0.42,0.15,-0.0,1.08
+Ultimate Sports,PS4,2001.0,Action,Atari,0.54,0.32,0.11,-0.0,0.97
+Super Force,WiiU,2000.0,Puzzle,Capcom,0.05,0.03,0.01,-0.0,0.09
+Force,X360,2019.0,Action,Atari,0.05,0.03,0.01,-0.0,0.09
+Sports,PS3,2018.0,Sports,Square Enix,0.84,0.61,0.09,-0.0,1.53
+Simulator,PS3,1990.0,Shooter,Sony,0.28,0.2,0.05,0.0,0.53
+Battle,N64,2012.0,Misc,Square Enix,0.22,0.21,0.03,-0.0,0.46
+Force,PS2,2011.0,Role-Playing,Konami,0.05,0.03,0.01,0.0,0.09
+Championship,PS4,2018.0,Sports,Konami,0.08,0.06,0.01,0.0,0.15
+Strike,X360,1993.0,Shooter,Warner Bros,0.04,0.04,0.01,-0.0,0.09
+Grand Theft Auto V,Switch,2017.0,Sports,Activision,0.07,0.05,0.01,0.0,0.12
+Metal Gear Solid IV,X360,2020.0,Fighting,THQ,1.09,0.6,0.23,0.0,1.93
+Championship,X360,2006.0,Simulation,THQ,0.01,0.01,0.0,0.0,0.03
+Pro Heroes,X360,,Role-Playing,,0.03,0.02,0.01,0.0,0.06
+Turbo Warriors,PSV,2010.0,Sports,Nintendo,0.01,0.01,0.0,-0.0,0.02
+Simulator,PS2,2018.0,Fighting,Sony,0.38,0.29,0.06,0.0,0.72
+Sports,Switch,2014.0,Misc,Activision,0.02,0.02,0.0,-0.0,0.04
+Heroes,Switch,2018.0,Role-Playing,Capcom,2.77,1.58,0.12,0.0,4.47
+Turbo Championship,PS2,2020.0,Strategy,Namco Bandai,0.68,0.45,0.09,-0.0,1.22
+Warriors,PC,2018.0,Role-Playing,Sony,0.05,0.03,0.01,0.0,0.08
+Pro Simulator,X360,2001.0,Shooter,Sega,0.37,0.23,0.07,0.0,0.67
+Pro Strike,XOne,1998.0,Action,THQ,0.02,0.02,0.0,0.0,0.04
+Quest,Wii,2017.0,Sports,Microsoft,0.46,0.32,0.03,-0.0,0.8
+Strike,PS4,2003.0,Action,Activision,0.22,0.12,0.03,0.0,0.37
+Super Championship,DS,2015.0,Action,Namco Bandai,1.93,1.24,0.73,0.0,3.91
+Adventure,PSP,2010.0,Fighting,Take-Two Interactive,0.05,0.03,0.01,-0.0,0.09
+Battle,X360,2009.0,Sports,Electronic Arts,4.03,2.22,0.47,-0.0,6.72
+Championship,PS2,2005.0,Racing,Sony,0.09,0.06,0.04,-0.0,0.2
+Extreme Sports,Xbox,2007.0,Platform,Konami,0.1,0.09,0.03,-0.0,0.22
+Heroes,PC,2018.0,Adventure,Nintendo,0.53,0.4,0.13,0.0,1.06
+Mortal Kombat,Switch,1995.0,Strategy,Ubisoft,0.02,0.01,0.0,-0.0,0.03
+Adventure,DS,2017.0,Adventure,,0.31,0.22,0.08,0.0,0.61
+Quest,DS,2020.0,Action,Nintendo,0.93,0.7,0.36,-0.0,2.0
+Mega Championship,X360,1996.0,Fighting,THQ,0.24,0.16,0.05,0.0,0.45
+Extreme Racing,XOne,1997.0,Sports,Nintendo,0.23,0.19,0.05,0.0,0.46
+Mega Strike,PC,2010.0,Racing,Namco Bandai,0.0,0.0,0.0,0.0,0.0
+Tournament,PS4,2013.0,Action,Activision,0.26,0.2,0.05,-0.0,0.5
+Dark Sports,WiiU,2004.0,Sports,Electronic Arts,1.36,1.04,0.08,-0.0,2.48
+Super Warriors,PS3,1998.0,Shooter,Take-Two Interactive,0.18,0.11,0.03,0.0,0.32
+Shadow Battle,XOne,,Adventure,Namco Bandai,0.0,0.0,0.0,0.0,0.0
+Racing,WiiU,2015.0,Action,Warner Bros,0.27,0.19,0.06,0.0,0.51
+Tournament,Switch,2007.0,Sports,Electronic Arts,0.01,0.01,0.0,-0.0,0.02
+Adventure,Xbox,2019.0,Misc,Konami,0.65,0.47,0.05,-0.0,1.16
+Quest,WiiU,2011.0,Action,Activision,0.09,0.07,0.01,-0.0,0.17
+Legends,Switch,2015.0,Platform,Sega,0.16,0.1,0.01,0.0,0.27
+Extreme Force,PS4,2009.0,Puzzle,Namco Bandai,0.14,0.12,0.02,0.0,0.29
+Sports,Wii,2012.0,Simulation,Capcom,0.18,0.12,0.03,-0.0,0.33
+Force,PSV,2020.0,Action,,1.81,1.26,0.2,0.0,3.27
+Warriors,X360,2014.0,Racing,Ubisoft,9.2,7.62,1.1,0.0,17.92
+Ultimate Tournament,DS,2006.0,Action,Atari,0.01,0.01,0.0,-0.0,0.03
+Quest,Switch,2011.0,Fighting,Nintendo,0.43,0.32,0.06,-0.0,0.8
+Battle,Xbox,2006.0,Action,Take-Two Interactive,0.24,0.13,0.03,-0.0,0.4
+Championship,PS2,2005.0,Racing,Ubisoft,0.02,0.02,0.0,-0.0,0.04
+Warriors,X360,2017.0,Racing,Sony,0.45,0.34,0.05,0.0,0.84
+Warriors,PS4,2015.0,Action,Activision,0.53,0.37,0.04,-0.0,0.94
+Adventure,PS4,2013.0,Adventure,Electronic Arts,0.9,0.67,0.05,-0.0,1.62
+Racing,Wii,2010.0,Sports,Ubisoft,1.64,1.27,0.12,-0.0,3.03
+Mega Heroes,PC,2006.0,Adventure,Bethesda,0.33,0.25,0.03,0.0,0.61
+Racing,PS3,2015.0,Sports,Sega,0.61,0.55,0.09,-0.0,1.25
+Battle,DS,2011.0,Fighting,Activision,0.2,0.13,0.02,-0.0,0.36
+Simulator,PS2,2009.0,Sports,Sega,0.14,0.11,0.05,0.0,0.3
+Battle,X360,2007.0,Strategy,Sony,0.17,0.1,0.04,0.0,0.3
+Battle,Wii,2020.0,Action,Take-Two Interactive,0.79,0.75,0.17,0.0,1.7
+Simulator,PS2,1986.0,Action,Take-Two Interactive,0.1,0.07,0.03,0.0,0.19
+Tournament,XOne,2017.0,Fighting,Electronic Arts,0.06,0.03,0.01,0.0,0.11
+Legends,XOne,2015.0,Fighting,Nintendo,0.11,0.09,0.02,-0.0,0.21
+Dark Racing,PSV,2013.0,Sports,Sega,0.81,0.48,0.1,-0.0,1.39
+Shadow Sports,Wii,1986.0,Action,Warner Bros,0.02,0.01,0.0,-0.0,0.04
+Adventure,PS4,2007.0,Sports,Sony,8.85,6.26,1.86,0.0,16.96
+Strike,DS,2006.0,Platform,Microsoft,0.2,0.14,0.04,0.0,0.38
+Sports,PS3,2013.0,Sports,Square Enix,0.6,0.34,0.05,0.0,0.99
+Simulator,X360,2008.0,Action,Sony,0.22,0.16,0.02,0.0,0.4
+Racing,XOne,,Shooter,THQ,0.16,0.12,0.02,-0.0,0.3
+Adventure,3DS,2001.0,Shooter,Nintendo,0.07,0.05,0.03,-0.0,0.15
+Super Battle,X360,1990.0,Racing,Konami,0.46,0.24,0.08,0.0,0.78
+Racing,3DS,2020.0,Shooter,Microsoft,0.62,0.42,0.19,-0.0,1.24
+Extreme Battle,XOne,2006.0,Action,Take-Two Interactive,0.08,0.07,0.02,0.0,0.18
+Championship,3DS,1995.0,Platform,Activision,0.09,0.07,0.01,0.0,0.18
+Force,X360,2019.0,Action,Atari,0.05,0.03,0.01,-0.0,0.09
+Pro Quest,DS,2017.0,Action,Take-Two Interactive,0.72,0.5,0.4,-0.0,1.62
+Quest,Wii,2007.0,Puzzle,Capcom,0.28,0.16,0.06,-0.0,0.5519123667827817
+Shadow Sports,Wii,2018.0,Platform,Ubisoft,0.27,0.18,0.04,-0.0,0.5247080665024172
+Legends,PSV,2020.0,Shooter,Activision,0.4,0.25,0.05,-0.0,0.71
+Adventure,PS4,1989.0,Shooter,Electronic Arts,0.32,0.21,0.06,0.0,0.59
+Mega Sports,PC,2017.0,Shooter,Take-Two Interactive,0.47,0.37,0.08,0.0,0.92
+Pro Adventure,Xbox,2006.0,Sports,THQ,0.02,0.01,0.0,0.0,0.027199874305590056
+Super Warriors,Xbox,2016.0,Platform,Konami,0.01,0.01,0.0,-0.0,0.02
+Warriors,Wii,2002.0,Adventure,Activision,0.26,0.16,0.03,0.0,0.44
+Quest,PC,2006.0,Fighting,Sony,0.02,0.01,0.0,0.0,0.04
+Dark Legends,PS2,2010.0,Role-Playing,Nintendo,6.06,4.67,1.3,0.0,12.02
+Adventure,X360,2008.0,Shooter,Konami,0.79,0.46,0.1,-0.0,1.35
+Simulator,DS,,Fighting,THQ,0.17,0.1,0.06,-0.0,0.33
+Force,Wii,2005.0,Action,Warner Bros,0.44,0.39,0.03,0.0,0.86
+Championship,PC,2012.0,Racing,Activision,0.42,0.27,0.04,0.0,0.73
+Ultimate Adventure,X360,2016.0,Shooter,,0.08,0.08,0.0,0.0,0.16
+Dark Tournament,PS,2017.0,Platform,Konami,0.29,0.17,0.04,0.0,0.49
+Heroes,Xbox,2019.0,Fighting,Nintendo,0.45,0.32,0.11,0.0,0.87
+Legends,PC,2004.0,Action,Nintendo,0.15,0.1,0.01,-0.0,0.26
+Super Quest,PS3,1989.0,Strategy,Electronic Arts,0.28,0.24,0.02,-0.0,0.53
+Super Warriors,Xbox,2016.0,Platform,Konami,0.01,0.01,0.0,-0.0,0.02
+Dark Adventure,PC,2008.0,Shooter,Activision,0.01,0.01,0.0,-0.0,0.03
+Shadow Quest,PS2,2020.0,Shooter,Sega,0.11,0.08,0.05,-0.0,0.23
+Warriors,PSV,2013.0,Sports,Take-Two Interactive,0.2,0.16,0.02,-0.0,0.38
+Simulator,3DS,2017.0,Role-Playing,Namco Bandai,0.11,0.08,0.03,0.0,0.21
+Quest,PS2,2016.0,Adventure,Sony,0.03,0.02,0.01,0.0,0.05
+The Legend of Zelda III,PS2,1988.0,Action,Sega,0.24,0.22,0.06,-0.0,0.53
+Racing,X360,2008.0,Sports,Activision,0.07,0.04,0.01,0.0,0.11
+Extreme Warriors,PS3,2014.0,Sports,Warner Bros,0.19,0.16,0.04,0.0,0.39
+Championship,PS3,2014.0,Adventure,Activision,1.14,0.81,0.16,-0.0,2.11
+Tournament,Wii,2010.0,Platform,Atari,0.09,0.06,0.01,-0.0,0.16
+Tournament,XOne,2014.0,Sports,Microsoft,0.55,0.37,0.04,0.0,0.96
+Championship,PS4,2007.0,Fighting,Atari,0.24,0.18,0.02,-0.0,0.44
+Quest,PS4,,Puzzle,Nintendo,0.3,0.23,0.06,0.0,0.59
+Legends,PS4,2020.0,Platform,Bethesda,0.58,0.47,0.09,0.0,1.14
+Warriors,X360,2008.0,Action,Sega,1.12,0.76,0.2,-0.0,2.09
+Shadow Tournament,Wii,2019.0,Puzzle,Namco Bandai,1.75,1.04,0.09,0.0,2.88
+Tournament,3DS,2006.0,Puzzle,Activision,0.22,0.14,0.06,-0.0,0.42
+Pro Racing,WiiU,2015.0,Sports,Bethesda,0.63,0.44,0.1,-0.0,1.17
+Sports,WiiU,2017.0,Role-Playing,Namco Bandai,0.01,0.0,0.0,0.0,0.01
+Legends,Xbox,2017.0,Action,THQ,0.19,0.13,0.03,-0.0,0.35
+Simulator,Wii,2020.0,Fighting,Ubisoft,5.75,4.04,1.18,-0.0,10.97
+Battle,DS,2018.0,Role-Playing,Sony,0.94,0.84,0.29,0.0,2.07
+Warriors,Switch,2000.0,Shooter,Nintendo,0.1,0.06,0.01,-0.0,0.17
+Force,Wii,2018.0,Fighting,Take-Two Interactive,1.33,0.94,0.21,0.0,2.49
+Force,XOne,,Fighting,Nintendo,0.07,0.06,0.01,-0.0,0.14
+Heroes,XOne,2019.0,Adventure,Sega,0.06,0.05,0.0,0.0,0.11
+Ultimate Simulator,Switch,2006.0,Shooter,Electronic Arts,0.02,0.02,0.0,0.0,0.04
+Shadow Legends,DS,2014.0,Sports,Electronic Arts,8.32,6.27,2.56,0.0,17.15
+Turbo Strike,PS3,2008.0,Action,,0.55,0.44,0.07,-0.0,1.06
+Super Quest,PS2,2018.0,Platform,Nintendo,3.38,2.93,1.88,0.0,8.18
+Strike,PSP,2014.0,Fighting,Activision,0.09,0.06,0.02,0.0,0.16
+Shadow Adventure,PS3,1997.0,Racing,Nintendo,0.51,0.35,0.06,0.0,0.92
+Shadow Simulator,PS3,2017.0,Action,LucasArts,2.88,1.91,0.58,-0.0,5.37
+Mega Legends,X360,2016.0,Action,Ubisoft,0.32,0.23,0.05,0.0,0.59
+Turbo Championship,X360,1994.0,Action,Bethesda,0.55,0.34,0.06,0.0,0.95
+Legends,Wii,2016.0,Adventure,Eidos,0.13,0.1,0.01,0.0,0.24
+Strike,Switch,2019.0,Simulation,Ubisoft,0.03,0.02,0.0,-0.0,0.06
+Assassins Creed 2,WiiU,2019.0,Puzzle,Ubisoft,0.07,0.05,0.01,-0.0,0.14
+Pro Adventure,DS,2012.0,Simulation,THQ,0.03,0.03,0.01,0.0,0.07
+Legends,PC,2012.0,Racing,Atari,0.01,0.0,0.0,-0.0,0.02
+Legends,WiiU,2017.0,Sports,Capcom,0.05,0.04,0.01,0.0,0.13080569060725508
+Tournament,PS2,2016.0,Strategy,Electronic Arts,0.12,0.07,0.02,0.0,0.21
+Heroes,PS2,2002.0,Action,Sega,0.57,0.41,0.23,0.0,1.21
+Battle,PS2,2018.0,Role-Playing,THQ,0.19,0.14,0.07,-0.0,0.39
+Championship,PS2,2016.0,Shooter,Atari,0.06,0.04,0.02,0.0,0.13
+Warriors,PS2,,Shooter,Nintendo,0.66,0.45,0.17,0.0,1.28
+Championship,PS2,2000.0,Sports,,1.4,1.08,0.48,0.0,2.97
+Super Adventure,PS4,2014.0,Sports,Namco Bandai,0.1,0.08,0.02,0.0,0.2
+Strike,XOne,2018.0,Role-Playing,Konami,0.58,0.45,0.05,-0.0,1.08
+Battle,PC,2013.0,Adventure,Nintendo,0.19,0.11,0.02,0.0,0.32
+Battle,Wii,2016.0,Fighting,Nintendo,0.09,0.06,0.01,0.0,0.16
+Extreme Simulator,XOne,2000.0,Action,Electronic Arts,0.14,0.1,0.02,-0.0,0.26
+Force,DS,2005.0,Adventure,Electronic Arts,2.08,1.78,0.65,-0.0,4.5
+Force,Switch,1998.0,Sports,Ubisoft,0.05,0.03,0.01,0.0,0.09
+Simulator,WiiU,2016.0,Shooter,Electronic Arts,0.17,0.13,0.04,-0.0,0.33
+Championship,Switch,2020.0,Strategy,THQ,0.04,0.03,0.0,-0.0,0.07
+Heroes,PS3,,Shooter,505 Games,0.09,0.08,0.01,0.0,0.18
+Racing,DS,1991.0,Strategy,Nintendo,0.19,0.12,0.05,-0.0,0.36
+Quest,Xbox,1988.0,Action,Square Enix,0.15,0.11,0.02,-0.0,0.29
+Racing,Wii,2019.0,Simulation,Nintendo,0.12,0.09,0.02,0.0,0.22
+Warriors,PS3,,Strategy,Activision,1.83,1.25,0.3,-0.0,3.38
+Ultimate Sports,PC,1985.0,Racing,Take-Two Interactive,0.05,0.03,0.01,0.0,0.09
+Strike,X360,2007.0,Puzzle,Sony,0.01,0.01,0.0,-0.0,0.02
+Legends,Xbox,1995.0,Racing,Activision,0.02,0.01,0.0,0.0,0.04
+Racing,Wii,2007.0,Action,Capcom,5.71,3.34,0.4,0.0,9.45
+Force,PSP,2010.0,Platform,Konami,0.07,0.06,0.01,-0.0,0.14
+Super Force,Wii,2017.0,Action,Ubisoft,0.37,0.21,0.05,-0.0,0.63
+Sports,PS2,2018.0,Strategy,THQ,0.14,0.1,0.02,-0.0,0.26
+Legends,3DS,2002.0,Action,Nintendo,0.04,0.03,0.02,0.0,0.09
+Dark Championship,PSV,2015.0,Sports,THQ,0.29,0.24,0.03,-0.0,0.56
+Force,PS3,2012.0,Platform,Ubisoft,0.74,0.53,0.08,0.0,1.35
+Simulator,DS,2014.0,Role-Playing,Activision,1.03,0.6,0.15,0.0,1.77
+Sports,PS4,2020.0,Fighting,Electronic Arts,0.23,0.18,0.04,0.0,0.45
+Warriors,PS3,1997.0,Shooter,Sony,0.01,0.01,0.0,0.0,0.02
+Simulator,X360,2009.0,Shooter,Warner Bros,0.4,0.25,0.03,0.0,0.67
+Battle,3DS,2006.0,Shooter,Activision,0.01,0.01,0.0,0.0,0.03
+Sports,Xbox,2020.0,Sports,Sony,0.04,0.03,0.01,-0.0,0.08
+Heroes,PS3,1995.0,Racing,Nintendo,0.03,0.02,0.01,-0.0,0.06
+Heroes,Xbox,2011.0,Platform,Sega,0.25,0.15,0.03,-0.0,0.43
+Super Warriors,XOne,2012.0,Action,Konami,0.13,0.09,0.01,0.0,0.23
+Sports,PS4,1988.0,Role-Playing,Sega,0.09,0.09,0.01,0.0,0.19
+Adventure,DS,1994.0,Strategy,Nintendo,0.02,0.02,0.01,0.0,0.05
+Adventure,PS4,2008.0,Shooter,Sony,0.15,0.1,0.01,-0.0,0.26
+Championship,Wii,2017.0,Sports,THQ,0.63,0.49,0.11,0.0,1.23
+Warriors,DS,2019.0,Action,Activision,0.53,0.42,0.1,-0.0,1.05
+Legends,PS4,2011.0,Platform,LucasArts,1.5,1.0,0.24,-0.0,2.74
+Adventure,PS4,2015.0,Sports,Electronic Arts,22.12,19.88,4.32,-0.0,46.33
+Heroes,PS3,2020.0,Strategy,Warner Bros,3.98,2.54,0.7,0.0,7.22
+Strike,PS4,,Sports,Atari,0.09,0.06,0.02,-0.0,0.17
+Shadow Championship,PS2,2009.0,Racing,Electronic Arts,0.21,0.16,0.07,0.0,0.44
+Force,PC,2015.0,Role-Playing,Electronic Arts,0.8,0.44,0.04,-0.0,1.28
+Battle,X360,2016.0,Platform,,4.64,2.58,0.27,0.0,7.49
+Quest,PC,2016.0,Sports,Electronic Arts,0.24,0.22,0.05,0.0,0.51
+Turbo Simulator,DS,2019.0,Role-Playing,Konami,0.29,0.27,0.11,0.0,0.68
+Heroes,PS2,2005.0,Platform,Nintendo,1.17,0.84,0.23,0.0,2.24
+Simulator,X360,2017.0,Fighting,Nintendo,0.15,0.08,0.02,-0.0,0.25
+Mega Sports,PS4,2020.0,Racing,Sony,0.05,0.05,0.01,0.0,0.12
+Racing,PS2,1996.0,Role-Playing,Square Enix,0.02,0.01,0.01,0.0,0.04
+Sports,XOne,2020.0,Action,Sega,0.25,0.23,0.06,-0.0,0.54
+Super Warriors,WiiU,1998.0,Shooter,Eidos,0.33,0.22,0.06,-0.0,0.6
+Super Simulator,PS3,2015.0,Action,Electronic Arts,2.29,1.69,0.45,0.0,4.44
+Simulator,PC,2004.0,Action,Electronic Arts,0.08,0.06,0.01,0.0,0.15
+Championship,Wii,2000.0,Action,Square Enix,0.55,0.48,0.11,-0.0,1.14
+Tournament,X360,1992.0,Strategy,Sega,0.12,0.08,0.01,-0.0,0.21
+Heroes,PS3,2015.0,Action,Microsoft,0.07,0.04,0.01,-0.0,0.12
+Strike,PS3,1998.0,Shooter,Bethesda,0.98,0.86,0.1,0.0,1.94
+Mega Sports,PS4,2011.0,Strategy,Electronic Arts,0.12,0.1,0.01,0.0,0.23
+Heroes,X360,2016.0,Shooter,Capcom,0.32,0.19,0.06,-0.0,0.58
+Adventure,PS2,2020.0,Role-Playing,Take-Two Interactive,0.2,0.19,0.08,0.0,0.47
+Heroes,DS,2010.0,Platform,Take-Two Interactive,0.02,0.02,0.01,-0.0,0.06
+Quest,PS3,2015.0,Role-Playing,Namco Bandai,0.47,0.32,0.06,0.0,0.85
+Strike,PS3,2007.0,Racing,Konami,2.88,1.72,0.21,0.0,4.81
+Racing,PS4,2007.0,Action,Activision,0.03,0.02,0.0,0.0,0.06
+Strike,PS2,2006.0,Shooter,Nintendo,0.73,0.49,0.18,-0.0,1.3766458198341665
+Heroes,PC,2013.0,Role-Playing,Electronic Arts,0.02,0.02,0.0,-0.0,0.04
+Super Battle,Wii,2008.0,Role-Playing,Ubisoft,0.65,0.4,0.08,0.0,1.12
+Force,XOne,,Platform,Nintendo,0.05,0.04,0.01,0.0,0.1
+Sports,Switch,2015.0,Sports,Sony,0.17,0.1,0.02,0.0,0.28
+Adventure,PS3,1985.0,Platform,Nintendo,0.02,0.01,0.0,0.0,0.03
+Tournament,PS4,2020.0,Shooter,Sony,0.29,0.2,0.03,0.0,0.52
+Sports,PS2,2005.0,Shooter,Nintendo,0.44,0.28,0.13,-0.0,0.85
+Legends,PSV,2018.0,Puzzle,Sony,0.26,0.19,0.06,0.0,0.52
+Turbo Battle,PC,2009.0,Platform,Activision,0.56,0.45,0.13,0.0,1.13
+Adventure,PS2,1995.0,Strategy,Ubisoft,0.04,0.03,0.01,-0.0,0.07
+Force,PS4,2007.0,Platform,Ubisoft,0.04,0.03,0.01,0.0,0.07
+Warriors,Xbox,2000.0,Racing,Take-Two Interactive,0.12,0.08,0.02,-0.0,0.23
+Sports,Wii,2007.0,Platform,Bethesda,0.02,0.01,0.0,0.0,0.03
+Turbo Battle,DS,2019.0,Action,Activision,3.15,1.87,0.64,0.0,5.66
+Dark Adventure,PS3,2016.0,Adventure,THQ,0.21,0.15,0.04,-0.0,0.39
+Force,3DS,2015.0,Sports,Activision,0.04,0.03,0.01,-0.0,0.07
+Legends,PS2,1996.0,Shooter,Sega,0.43,0.37,0.2,0.0,0.99
+Legends,PSP,2019.0,Action,Sony,0.25,0.18,0.03,-0.0,0.46
+Mega Racing,PC,2012.0,Fighting,Nintendo,0.1,0.07,0.02,0.0,0.19
+Legends,PS3,2020.0,Racing,Konami,0.13,0.09,0.01,0.0,0.23
+Legends,DS,2006.0,Simulation,THQ,0.16,0.11,0.07,0.0,0.35
+Tournament,Xbox,2011.0,Action,Activision,0.21,0.18,0.02,-0.0,0.41
+Force,PS2,2009.0,Shooter,Ubisoft,1.15,0.77,0.39,0.0,2.31
+Championship,PS4,2000.0,Sports,Ubisoft,0.13,0.1,0.02,-0.0,0.25
+Quest,PS4,2007.0,Fighting,Microsoft,0.21,0.13,0.03,-0.0,0.36
+Mega Battle,PS3,2018.0,Fighting,Warner Bros,3.1,2.04,0.81,0.0,5.96
+Legends,X360,2006.0,Puzzle,Nintendo,0.12,0.08,0.02,-0.0,0.22
+Extreme Championship,GC,2016.0,Sports,Atari,0.02,0.01,0.0,-0.0,0.03
+Super Quest,PS,2018.0,Role-Playing,,0.46,0.31,0.1,-0.0,0.88
+Dark Tournament,PS4,2018.0,Sports,Sega,1.0,0.91,0.1,0.0,2.01
+Strike,XOne,2018.0,Racing,Sony,0.09,0.05,0.01,0.0,0.15
+Warriors,Switch,2016.0,Misc,Activision,0.09,0.07,0.01,-0.0,0.16
+Simulator,PS4,2015.0,Adventure,Electronic Arts,0.24,0.15,0.03,-0.0,0.42
+Ultimate Sports,PS2,2009.0,Shooter,,45.86,27.52,12.5,-0.0,85.88
+Championship,PS4,2008.0,Fighting,THQ,0.01,0.01,0.0,0.0,0.03
+Super Racing,PC,2019.0,Action,Electronic Arts,0.41,0.23,0.04,-0.0,0.69
+Mega Tournament,X360,2010.0,Role-Playing,Namco Bandai,0.06,0.04,0.01,0.0,0.11
+Madden NFL 3,PS2,2006.0,Strategy,Activision,0.13,0.1,0.05,0.0,0.29
+Sports,PS3,2010.0,Adventure,Sega,0.15,0.12,0.03,-0.0,0.3
+Battle,PS2,,Role-Playing,Microsoft,2.86,1.49,0.97,-0.0,5.32
+Strike,Xbox,2016.0,Shooter,Bethesda,1.39,1.01,0.13,-0.0,2.54
+Simulator,PS2,2017.0,Role-Playing,Activision,0.35,0.3,0.1,0.0,0.75
+Adventure,Switch,2002.0,Action,Nintendo,0.98,0.63,0.19,-0.0,1.8
+Extreme Tournament,PS2,2017.0,Racing,Electronic Arts,0.15,0.1,0.04,-0.0,0.28
+Simulator,PS3,2014.0,Puzzle,Atari,0.02,0.01,0.0,0.0,0.03
+Simulator,X360,2005.0,Sports,Electronic Arts,0.46,0.28,0.09,0.0,0.83
+Legends,3DS,2005.0,Racing,Ubisoft,0.06,0.05,0.02,-0.0,0.13
+Shadow Warriors,Switch,2020.0,Adventure,Konami,0.21,0.13,0.01,-0.0,0.36
+Force,PS2,1996.0,Puzzle,Eidos,0.07,0.04,0.01,0.0,0.11
+Quest,DS,2000.0,Platform,Electronic Arts,0.11,0.07,0.03,-0.0,0.21
+Legends,Switch,,Shooter,Take-Two Interactive,0.08,0.06,0.02,0.0,0.16
+Racing,DS,2018.0,Adventure,Sony,0.04,0.02,0.01,-0.0,0.07
+Warriors,PS4,2016.0,Sports,Konami,1.37,1.01,0.14,-0.0,2.51
+Simulator,WiiU,1998.0,Sports,Namco Bandai,0.03,0.03,0.0,-0.0,0.07
+Championship,DS,2010.0,Sports,Ubisoft,2.89,1.91,0.99,0.0,5.79
+Sports,Switch,2007.0,Sports,Eidos,0.09,0.06,0.0,-0.0,0.15
+Strike,Xbox,1995.0,Shooter,Activision,0.25,0.16,0.04,0.0,0.44
+Simulator,PS4,2017.0,Role-Playing,Sony,0.78,0.51,0.1,-0.0,1.39
+Simulator,PC,1997.0,Action,Sony,0.37,0.27,0.04,-0.0,0.68
+Strike,Switch,2017.0,Shooter,THQ,0.09,0.06,0.01,0.0,0.17
+Turbo Legends,XOne,2006.0,Sports,Square Enix,1.39,0.91,0.11,0.0,2.42
+Strike,Xbox,2012.0,Racing,Atari,0.05,0.04,0.01,0.0,0.1
+Battle,Switch,2017.0,Platform,,1.08,0.77,0.12,-0.0,1.96
+Quest,PC,2007.0,Adventure,Ubisoft,0.66,0.39,0.03,-0.0,1.09
+Strike,Wii,1993.0,Shooter,Konami,0.17,0.1,0.02,-0.0,0.28
+Championship,DS,2014.0,Role-Playing,Activision,0.15,0.11,0.04,-0.0,0.3
+Warriors,PS2,1985.0,Adventure,Sony,0.08,0.06,0.01,0.0,0.14
+Mega Adventure,PS3,1999.0,Racing,THQ,0.25,0.18,0.03,0.0,0.46
+Battle,PS3,2007.0,Shooter,THQ,0.08,0.04,0.01,0.0,0.13
+Racing,XOne,2016.0,Adventure,Activision,0.33,0.22,0.06,-0.0,0.61
+Tournament,Xbox,2007.0,Platform,Capcom,0.13,0.07,0.02,-0.0,0.21
+Quest,PC,2005.0,Simulation,Sony,0.05,0.04,0.01,0.0,0.1
+Legends,XOne,2003.0,Sports,Activision,0.11,0.09,0.01,-0.0,0.21
+Battle,DS,2002.0,Action,Sega,0.61,0.4,0.19,-0.0,1.2
+Heroes,Switch,2006.0,Sports,Electronic Arts,0.65,0.38,0.09,-0.0,1.12
+Tournament,3DS,1999.0,Strategy,Sega,0.08,0.05,0.01,-0.0,0.14
+Strike,PS4,2020.0,Sports,Microsoft,2.04,1.5,0.48,-0.0,4.02
+Sports,3DS,2015.0,Sports,Sony,18.52,15.28,8.01,-0.0,41.8
+Resident Evil V,PSP,2020.0,Platform,Activision,0.46,0.37,0.03,-0.0,0.86
+Pro Heroes,PS2,2006.0,Role-Playing,,0.41,0.29,0.17,0.0,0.87
+Sports,Xbox,2016.0,Misc,Activision,0.15,0.1,0.04,0.0,0.28
+Sports,PS2,2014.0,Sports,Square Enix,2.3,1.43,0.44,0.0,4.17
+Extreme Quest,PS3,2017.0,Shooter,Electronic Arts,0.07,0.04,0.01,-0.0,0.09697133916671763
+Dark Quest,DS,2014.0,Platform,LucasArts,16.04,11.74,7.51,0.0,35.29
+Heroes,PS3,2010.0,Sports,Namco Bandai,0.91,0.55,0.11,0.0,1.57
+Super Force,PC,2015.0,Shooter,Capcom,0.11,0.1,0.03,0.0,0.24
+Warriors,Wii,2017.0,Sports,Microsoft,0.07,0.04,0.01,0.0,0.12
+Simulator,X360,2009.0,Fighting,Square Enix,0.1,0.08,0.03,-0.0,0.22
+Warriors,Wii,2019.0,Role-Playing,Ubisoft,2.75,2.2,0.38,0.0,5.33
+Turbo Legends,PS3,2017.0,Fighting,Sony,0.19,0.16,0.04,0.0,0.39
+Force,Wii,2013.0,Action,Activision,1.55,0.93,0.15,-0.0,2.63
+Heroes,Xbox,2014.0,Action,Sony,2.14,1.43,0.2,0.0,3.77
+Turbo Battle,WiiU,2017.0,Racing,Konami,4.87,3.46,0.85,-0.0,9.18
+Extreme Sports,PS4,1993.0,Action,Activision,0.04,0.02,0.0,-0.0,0.07
+Strike,PSV,1995.0,Shooter,Nintendo,0.02,0.02,0.0,0.0,0.04
+Battle,PC,2015.0,Role-Playing,Nintendo,0.06,0.05,0.01,0.0,0.12
+Heroes,XOne,2011.0,Role-Playing,Atari,2.77,2.09,0.37,-0.0,5.23
+Heroes,X360,2017.0,Platform,Electronic Arts,0.34,0.23,0.05,-0.0,0.62
+Extreme Adventure,Switch,2011.0,Action,Take-Two Interactive,5.92,3.38,0.66,0.0,9.96
+Shadow Sports,PS2,2016.0,Platform,Namco Bandai,1.23,0.88,0.38,0.0,2.49
+Adventure,XOne,2020.0,Sports,Nintendo,0.18,0.15,0.02,0.0,0.35
+Tournament,WiiU,2000.0,Action,Activision,0.19,0.11,0.01,0.0,0.32
+FIFA 4,PC,2015.0,Puzzle,Microsoft,0.18,0.13,0.03,0.0,0.33
+Legends,XOne,2015.0,Role-Playing,Nintendo,0.03,0.02,0.01,0.0,0.06
+Super Simulator,PS4,2008.0,Sports,Sony,12.1,7.1,2.44,-0.0,21.63
+Extreme Legends,X360,,Strategy,Konami,0.07,0.04,0.0,-0.0,0.12
+Super Racing,XOne,2017.0,Fighting,Konami,0.01,0.01,0.0,0.0,0.02
+Warriors,Switch,2020.0,Action,Sega,0.1,0.06,0.01,-0.0,0.18
+Dark Legends,Xbox,2020.0,Simulation,Activision,0.03,0.01,0.0,0.0,0.04
+Warriors,PS4,1996.0,Sports,Namco Bandai,0.57,0.49,0.11,-0.0,1.17
+Warriors,PS4,,Action,LucasArts,0.04,0.03,0.0,-0.0,0.07
+Battle,DS,2016.0,Role-Playing,THQ,0.11,0.08,0.05,0.0,0.23
+Extreme Heroes,XOne,2019.0,Sports,Capcom,0.08,0.06,0.01,0.0,0.14
+Pro Championship,PS2,2009.0,Racing,THQ,0.13,0.09,0.02,0.0,0.24
+Warriors,PS3,,Role-Playing,Electronic Arts,0.06,0.05,0.01,-0.0,0.13
+Warriors,XOne,2005.0,Action,Capcom,0.04,0.03,0.01,0.0,0.07
+Heroes,PS2,2020.0,Strategy,Take-Two Interactive,0.06,0.04,0.02,0.0,0.12
+Tournament,X360,2004.0,Platform,Electronic Arts,0.1,0.07,0.02,0.0,0.18689609390856926
+Mega Racing,PS3,2010.0,Shooter,Sony,0.2,0.16,0.01,-0.0,0.37
+Warriors,XOne,2014.0,Role-Playing,Sony,0.22,0.19,0.05,0.0,0.46
+Championship,Wii,1997.0,Action,Nintendo,1.52,1.08,0.2,-0.0,2.8
+Simulator,PS4,2017.0,Action,Nintendo,0.55,0.3,0.09,-0.0,0.93
+Tournament,PC,2010.0,Action,Activision,0.01,0.01,0.0,0.0,0.02
+Tournament,X360,,Simulation,Activision,0.18,0.14,0.04,-0.0,0.36
+Legends,X360,2020.0,Role-Playing,Nintendo,0.31,0.19,0.06,0.0,0.56
+Strike,PS3,2015.0,Misc,Ubisoft,0.21,0.11,0.03,0.0,0.35
+Racing,PS3,2013.0,Shooter,Take-Two Interactive,0.02,0.02,0.0,0.0,0.04
+Quest,WiiU,2018.0,Fighting,Namco Bandai,0.04,0.03,0.01,0.0,0.08
+Legends,PS3,2018.0,Action,Capcom,0.48,0.34,0.08,-0.0,0.9
+Warriors,XOne,2017.0,Platform,THQ,0.89,0.66,0.16,0.0,1.71
+Championship,PS4,2018.0,Strategy,Nintendo,0.03,0.02,0.01,-0.0,0.06
+Pro Battle,PS3,2016.0,Action,Ubisoft,0.67,0.42,0.09,0.0,1.17
+Turbo Strike,PS4,2010.0,Racing,Electronic Arts,0.07,0.06,0.01,0.0,0.14
+Force,3DS,1999.0,Shooter,Nintendo,0.75,0.7,0.37,-0.0,1.82
+Sports,PS4,2014.0,Strategy,Electronic Arts,0.12,0.08,0.02,0.0,0.22
+Quest,XOne,2018.0,Adventure,505 Games,0.09,0.06,0.01,-0.0,0.16
+Championship,PS2,2007.0,Platform,505 Games,0.04,0.03,0.01,-0.0,0.08
+Sports,PS3,2014.0,Adventure,Take-Two Interactive,0.23,0.2,0.04,-0.0,0.47
+Shadow Force,X360,1987.0,Adventure,Atari,0.04,0.04,0.01,-0.0,0.08
+Extreme Force,XOne,2009.0,Action,Electronic Arts,0.45,0.32,0.03,-0.0,0.8
+Warriors,PS4,2007.0,Fighting,Konami,1.0,0.7,0.17,-0.0,1.87
+Force,WiiU,2000.0,Misc,Take-Two Interactive,0.01,0.0,0.0,0.0,0.01
+Warriors,PS4,2020.0,Action,Electronic Arts,0.85,0.63,0.21,-0.0,1.7
+Tournament,X360,2007.0,Shooter,Activision,3.19,2.3,0.3,0.0,5.79
+Adventure,Wii,2007.0,Sports,Namco Bandai,0.27,0.15,0.04,-0.0,0.46
+Battle,Wii,2012.0,Action,Activision,0.63,0.54,0.09,-0.0,1.26
+Sports,PC,2006.0,Action,Nintendo,0.24,0.16,0.03,-0.0,0.43
+Ultimate Strike,DS,2020.0,Puzzle,Sony,0.72,0.47,0.19,0.0,1.37
+Racing,DS,1996.0,Strategy,Activision,0.05,0.03,0.02,0.0,0.1
+Strike,PS4,2006.0,Action,Electronic Arts,0.07,0.04,0.01,0.0,0.11
+Adventure,PS2,2013.0,Role-Playing,Atari,0.93,0.6,0.28,0.0,1.82
+Championship,DS,2012.0,Platform,THQ,1.29,0.88,0.41,0.0,2.58
+Force,Wii,1995.0,Strategy,Take-Two Interactive,0.15,0.08,0.02,0.0,0.26
+Tournament,WiiU,2001.0,Role-Playing,Take-Two Interactive,0.52,0.39,0.05,0.0,0.95
+Quest,Wii,2018.0,Action,Ubisoft,0.06,0.04,0.01,-0.0,0.11
+Sports,PS4,2019.0,Sports,Nintendo,0.13,0.11,0.02,-0.0,0.26
+Heroes,DS,1996.0,Shooter,Konami,0.1,0.07,0.03,0.0,0.2
+Quest,PS2,,Role-Playing,Ubisoft,4.34,3.07,1.02,0.0,8.42
+Extreme Quest,PS3,1998.0,Fighting,THQ,0.0,0.0,0.0,0.0,0.01
+Super Force,PS3,2015.0,Shooter,Namco Bandai,0.85,0.55,0.08,-0.0,1.48
+Racing,WiiU,2014.0,Sports,Square Enix,0.04,0.03,0.01,-0.0,0.07
+Pro Force,WiiU,2020.0,Sports,Sega,0.1,0.1,0.02,-0.0,0.23
+Adventure,DS,2012.0,Racing,Ubisoft,0.32,0.21,0.08,0.0,0.61
+Quest,X360,1997.0,Fighting,Nintendo,0.04,0.03,0.01,-0.0,0.08
+Battle,PS3,2015.0,Shooter,Nintendo,0.25,0.21,0.06,-0.0,0.45936484448276443
+Adventure,3DS,2013.0,Action,THQ,0.26,0.16,0.1,0.0,0.52
+Turbo Tournament,DS,2011.0,Role-Playing,Activision,0.06,0.04,0.01,0.0,0.1
+Super Adventure,PS4,2010.0,Puzzle,Capcom,0.55,0.39,0.04,-0.0,0.97
+Extreme Strike,PS2,2013.0,Role-Playing,Eidos,0.79,0.73,0.36,-0.0,1.88
+Battle,PC,,Shooter,THQ,0.02,0.01,0.0,-0.0,0.03
+Super Legends,PC,2009.0,Fighting,Warner Bros,0.22,0.17,0.03,-0.0,0.43
+Super Heroes,PC,2014.0,Action,Namco Bandai,0.14,0.1,0.01,-0.0,0.25
+Super Heroes,PS,2016.0,Misc,THQ,0.06,0.05,0.01,0.0,0.12
+Heroes,Xbox,2011.0,Shooter,Atari,0.18,0.13,0.01,-0.0,0.32
+Quest,Switch,2017.0,Racing,Capcom,0.26,0.17,0.04,-0.0,0.47
+Sports,X360,2019.0,Shooter,Microsoft,5.13,3.34,0.3,-0.0,8.78
+Force,Xbox,2018.0,Shooter,Electronic Arts,0.01,0.01,0.0,-0.0,0.02
+Quest,DS,2014.0,Shooter,Sony,3.75,2.49,0.98,-0.0,7.289292267637959
+Warriors,PS2,2015.0,Sports,Activision,0.69,0.55,0.29,0.0,1.53
+Sports,XOne,,Sports,Ubisoft,1.07,0.76,0.13,-0.0,1.96
+Ultimate Quest,3DS,2007.0,Racing,Nintendo,0.88,0.63,0.24,-0.0,1.75
+Championship,Xbox,2013.0,Action,505 Games,0.09,0.08,0.0,0.0,0.18
+Simulator,XOne,2020.0,Racing,Capcom,0.56,0.38,0.05,0.0,1.1226479415945494
+Turbo Legends,PC,2004.0,Action,Ubisoft,0.25,0.17,0.04,0.0,0.46
+Force,Wii,2016.0,Fighting,Capcom,0.16,0.1,0.01,-0.0,0.27
+Championship,Wii,2015.0,Action,Konami,1.08,0.74,0.07,0.0,1.89
+Tournament,PS2,2018.0,Role-Playing,THQ,0.72,0.53,0.24,0.0,1.49
+Quest,Switch,1998.0,Role-Playing,Activision,0.1,0.07,0.02,-0.0,0.18
+Tournament,PS3,2018.0,Adventure,Konami,0.05,0.04,0.01,-0.0,0.1
+Adventure,PS4,1998.0,Racing,Namco Bandai,0.29,0.23,0.02,0.0,0.6162445373105095
+Strike,X360,2007.0,Racing,Activision,0.38,0.32,0.03,-0.0,0.72
+Heroes,X360,1985.0,Platform,Sony,0.06,0.05,0.01,0.0,0.13
+Adventure,Switch,,Racing,Bethesda,0.08,0.05,0.01,0.0,0.1576074750440218
+Super Legends,PS2,2015.0,Sports,Nintendo,1.63,1.16,0.85,-0.0,3.64
+Heroes,Wii,2020.0,Puzzle,THQ,0.17,0.16,0.02,0.0,0.35
+Battle,PS3,2019.0,Platform,Sony,0.11,0.08,0.01,-0.0,0.2
+Strike,PS3,2014.0,Shooter,Take-Two Interactive,13.13,9.6,2.53,-0.0,25.26
+Ultimate Racing,XOne,2012.0,Adventure,Sega,0.01,0.01,0.0,-0.0,0.01
+Force,XOne,2016.0,Role-Playing,Atari,0.0,0.0,0.0,0.0,0.0
+Shadow Legends,PS4,2010.0,Sports,Sony,0.06,0.04,0.01,0.0,0.11
+Pro Battle,PS3,2013.0,Adventure,Activision,0.1,0.07,0.01,0.0,0.19
+Battle,PC,2014.0,Shooter,Capcom,0.08,0.06,0.01,-0.0,0.15
+Heroes,PC,2006.0,Action,Konami,1.55,1.28,0.15,0.0,2.98
+Super Championship,XOne,2013.0,Sports,Nintendo,0.04,0.03,0.01,0.0,0.08
+Strike,Xbox,2012.0,Racing,Nintendo,0.15,0.11,0.02,0.0,0.29
+Championship,PS2,2016.0,Shooter,Nintendo,0.24,0.13,0.08,-0.0,0.45
+Pro Legends,PS2,1991.0,Role-Playing,THQ,2.58,2.14,1.32,-0.0,6.04
+Super Racing,Switch,2001.0,Adventure,505 Games,0.05,0.04,0.01,0.0,0.11
+Shadow Simulator,GBA,2005.0,Sports,Ubisoft,0.63,0.46,0.07,-0.0,1.15
+Adventure,PS2,2020.0,Simulation,Sony,0.02,0.02,0.01,-0.0,0.05
+Battle,PS3,,Platform,Bethesda,1.57,0.88,0.11,-0.0,2.56
+Strike,X360,,Action,Take-Two Interactive,0.18,0.12,0.02,0.0,0.32
+Force,PS3,2014.0,Adventure,Take-Two Interactive,0.0,0.0,0.0,-0.0,0.01
+Ultimate Heroes,DS,2017.0,Racing,Nintendo,2.53,1.67,0.49,0.0,4.69
+Dark Simulator,Wii,2014.0,Adventure,Atari,0.05,0.03,0.01,0.0,0.09
+Extreme Quest,Wii,1996.0,Action,Bethesda,2.54,1.57,0.12,0.0,4.24
+Strike,Xbox,1995.0,Shooter,Activision,0.25,0.16,0.04,0.0,0.44
+Mega Sports,Switch,2019.0,Adventure,Atari,0.02,0.01,0.0,0.0,0.03
+Super Simulator,PS3,2008.0,Platform,Sony,0.77,0.53,0.05,-0.0,1.36
+Championship,X360,1986.0,Puzzle,Namco Bandai,0.02,0.01,0.0,-0.0,0.03
+Racing,PS4,2008.0,Role-Playing,Activision,0.01,0.01,0.0,-0.0,0.02
+Quest,PS3,1997.0,Action,THQ,0.58,0.42,0.08,0.0,1.09
+Adventure,DS,2015.0,Simulation,Sega,0.27,0.18,0.1,-0.0,0.55
+Quest,X360,2006.0,Adventure,Microsoft,0.01,0.01,0.0,-0.0,0.02
+Warriors,3DS,2018.0,Shooter,Sega,0.09,0.07,0.02,0.0,0.18
+Heroes,PC,2011.0,Action,Electronic Arts,0.03,0.02,0.0,0.0,0.06
+Racing,X360,2020.0,Shooter,Nintendo,0.09,0.08,0.02,0.0,0.19
+Shadow Strike,PS4,2009.0,Strategy,Electronic Arts,0.94,0.77,0.22,-0.0,1.93
+Force,PS,1997.0,Platform,Sega,2.6,1.47,0.37,0.0,4.44
+Strike,PS3,2006.0,Adventure,Activision,1.55,1.43,0.15,0.0,3.12
+Warriors,PS3,2005.0,Action,Sega,1.32,0.94,0.17,0.0,2.44
+Pro Strike,Wii,2012.0,Shooter,Ubisoft,1.14,0.87,0.07,-0.0,2.09
+Shadow Battle,XOne,1998.0,Adventure,LucasArts,0.4,0.23,0.04,0.0,0.67
+Pro Racing,Wii,2016.0,Action,THQ,0.32,0.21,0.08,0.0,0.61
+Tournament,Xbox,2005.0,Racing,Activision,0.21,0.14,0.03,-0.0,0.38
+Turbo Sports,Xbox,2019.0,Adventure,Konami,0.17,0.12,0.01,-0.0,0.3
+Dark Warriors,Switch,2017.0,Role-Playing,Ubisoft,0.03,0.03,0.01,0.0,0.06
+Ultimate Legends,PSV,,Strategy,Eidos,0.04,0.03,0.0,-0.0,0.08
+Battle,PS2,2016.0,Role-Playing,Ubisoft,0.31,0.19,0.03,0.0,0.53
+Shadow Racing,PS2,2009.0,Sports,Activision,0.11,0.07,0.04,0.0,0.22
+Shadow Adventure,PS4,1988.0,Sports,Nintendo,0.09,0.05,0.01,-0.0,0.16
+Tournament,PS3,2003.0,Puzzle,Bethesda,0.0,0.0,0.0,0.0,0.01
+Warriors,Xbox,2020.0,Shooter,Electronic Arts,0.01,0.01,0.0,-0.0,0.02
+Strike,XOne,2013.0,Action,Namco Bandai,0.11,0.08,0.01,0.0,0.19
+Quest,PS3,2013.0,Misc,Electronic Arts,0.36,0.26,0.03,-0.0,0.66
+Force,DS,2020.0,Action,Activision,4.38,4.23,1.01,0.0,9.62
+Championship,PS2,1996.0,Sports,Bethesda,0.07,0.06,0.02,0.0,0.15
+Sports,X360,1997.0,Racing,Sony,0.05,0.03,0.01,-0.0,0.08
+Mega Racing,Xbox,2017.0,Simulation,Atari,0.11,0.07,0.02,-0.0,0.2
+Adventure,DS,1995.0,Racing,Electronic Arts,0.07,0.04,0.02,-0.0,0.13
+Force,XOne,2010.0,Fighting,Electronic Arts,0.2,0.12,0.02,-0.0,0.34
+Tournament,Xbox,2019.0,Action,Sony,0.02,0.02,0.0,-0.0,0.04
+Strike,PS3,,Action,,0.03,0.03,0.0,0.0,0.06
+Championship,PS3,,Fighting,Nintendo,0.19,0.14,0.03,0.0,0.36
+Strike,DS,2015.0,Shooter,Atari,0.55,0.39,0.23,-0.0,1.17
+Heroes,3DS,2018.0,Role-Playing,Konami,0.13,0.11,0.02,0.0,0.26
+Adventure,Switch,,Racing,Nintendo,1.7,1.41,0.22,-0.0,3.32
+Tournament,X360,2003.0,Action,THQ,0.21,0.18,0.04,-0.0,0.43
+Extreme Battle,XOne,2020.0,Action,Square Enix,0.09,0.06,0.02,-0.0,0.18
+Turbo Legends,PS3,1998.0,Shooter,Ubisoft,0.14,0.12,0.02,-0.0,0.28
+Racing,X360,2011.0,Adventure,Konami,1.46,1.01,0.1,-0.0,2.57
+Heroes,PS4,2015.0,Action,THQ,0.56,0.4,0.1,-0.0,1.06
+Battle,Wii,2011.0,Puzzle,Nintendo,0.15,0.1,0.01,-0.0,0.26
+Championship,PS4,2015.0,Action,Nintendo,0.25,0.17,0.02,0.0,0.43
+Warriors,DS,1992.0,Puzzle,Activision,0.0,0.0,0.0,-0.0,0.01
+Heroes,PC,2017.0,Sports,Nintendo,0.13,0.1,0.03,-0.0,0.27
+Shadow Heroes,X360,2016.0,Sports,Activision,2.06,1.63,0.42,0.0,4.11
+Battle,XOne,1994.0,Action,Take-Two Interactive,0.02,0.01,0.0,0.0,0.04
+Force,X360,2009.0,Sports,Microsoft,0.23,0.19,0.02,0.0,0.43
+Tournament,Wii,2016.0,Sports,Atari,0.2,0.14,0.02,-0.0,0.36
+Super Battle,X360,2016.0,Racing,Take-Two Interactive,6.29,3.62,0.3,0.0,10.21
+Strike,3DS,1986.0,Action,Activision,0.12,0.11,0.05,0.0,0.28
+Strike,PS3,2012.0,Racing,Atari,0.02,0.01,0.0,-0.0,0.0472398608069492
+Legends,PS3,2008.0,Sports,Rockstar Games,0.02,0.01,0.0,0.0,0.03
+Dark Battle,Wii,2015.0,Misc,Nintendo,0.45,0.23,0.08,0.0,0.76
+Pro Simulator,X360,2015.0,Shooter,Nintendo,0.56,0.41,0.09,0.0,1.06
+Super Championship,PC,2019.0,Action,Sony,0.77,0.56,0.05,-0.0,1.506353978956494
+Heroes,PS2,2011.0,Strategy,Take-Two Interactive,0.26,0.2,0.13,-0.0,0.59
+Dark Strike,PS3,2006.0,Role-Playing,Atari,5.0,2.97,0.54,0.0,8.52
+Warriors,PC,2015.0,Fighting,Ubisoft,0.07,0.06,0.01,-0.0,0.13
+Adventure,PS4,2001.0,Action,Capcom,0.19,0.14,0.04,0.0,0.38
+Extreme Championship,Wii,2006.0,Platform,Nintendo,0.5,0.39,0.04,-0.0,0.92
+Quest,PSP,1998.0,Racing,THQ,0.01,0.01,0.0,0.0,0.02
+Super Strike,PSP,2014.0,Platform,Sega,0.09,0.06,0.02,0.0,0.17
+Tournament,Switch,1986.0,Role-Playing,THQ,0.03,0.02,0.01,0.0,0.06
+Heroes,PC,2008.0,Action,505 Games,0.41,0.32,0.04,0.0,0.78
+Adventure,PS2,1989.0,Racing,Sony,0.22,0.14,0.05,-0.0,0.41
+Legends,PS4,2016.0,Platform,Atari,1.14,0.69,0.14,0.0,1.97
+Sports,PS2,2005.0,Sports,Ubisoft,1.01,0.54,0.27,0.0,1.81
+Pro Warriors,XOne,2017.0,Sports,Sega,0.07,0.05,0.01,-0.0,0.13
+Championship,PS4,2019.0,Action,Sony,0.12,0.09,0.03,-0.0,0.23
+Strike,3DS,2014.0,Adventure,Sega,0.03,0.02,0.01,-0.0,0.05
+Super Force,Switch,2015.0,Sports,Nintendo,0.05,0.03,0.0,0.0,0.09
+Quest,PS3,2010.0,Strategy,Capcom,0.02,0.01,0.0,0.0,0.03
+Shadow Heroes,PS4,2018.0,Puzzle,Namco Bandai,0.13,0.09,0.01,0.0,0.23
+Racing,X360,2020.0,Shooter,Sega,0.03,0.03,0.0,-0.0,0.06
+Championship,PSP,2006.0,Shooter,Sega,0.98,0.63,0.05,-0.0,1.65
+Strike,PS2,2017.0,Platform,Microsoft,1.27,0.75,0.36,0.0,2.38
+Shadow Quest,Switch,2007.0,Strategy,Electronic Arts,0.18,0.12,0.03,0.0,0.33
+Ultimate Warriors,Wii,2017.0,Role-Playing,THQ,0.08,0.05,0.0,-0.0,0.13
+Dark Strike,Wii,2006.0,Misc,Warner Bros,0.83,0.46,0.05,0.0,1.34
+Ultimate Tournament,X360,2009.0,Adventure,Electronic Arts,0.07,0.04,0.01,0.0,0.12
+Shadow Simulator,X360,1992.0,Racing,Take-Two Interactive,0.55,0.36,0.07,0.0,0.98
+Championship,DS,2005.0,Racing,THQ,0.02,0.02,0.01,0.0,0.05
+Battle,XOne,1988.0,Action,Activision,0.08,0.05,0.01,-0.0,0.13
+Mega Simulator,PSP,2010.0,Shooter,Sony,0.43,0.35,0.04,0.0,0.82
+Battle,PS2,2011.0,Action,Sony,2.85,2.19,1.04,0.0,6.09
+Super Sports,PS4,2010.0,Misc,Microsoft,0.18,0.15,0.03,0.0,0.35
+Ultimate Tournament,PS2,2006.0,Role-Playing,Namco Bandai,0.13,0.11,0.03,0.0,0.27
+Battle,PSV,2005.0,Fighting,Namco Bandai,0.26,0.2,0.03,0.0,0.49
+Fortnite,Xbox,,Strategy,Atari,0.86,0.58,0.2,0.0,1.64
+Sports,DS,2016.0,Role-Playing,Capcom,0.63,0.49,0.21,-0.0,1.33
+Sports,PS2,2008.0,Role-Playing,Sony,0.18,0.13,0.08,0.0,0.39
+Championship,PS4,1988.0,Action,Square Enix,0.89,0.62,0.15,-0.0,1.66
+Strike,Xbox,2018.0,Action,Ubisoft,0.02,0.02,0.0,0.0,0.04
+Tournament,X360,2015.0,Sports,Electronic Arts,0.94,0.67,0.23,-0.0,1.84
+Sonic the Hedgehog III,Wii,1997.0,Shooter,Eidos,0.3,0.21,0.05,-0.0,0.55
+Sports,X360,2017.0,Shooter,Nintendo,0.79,0.53,0.19,-0.0,1.52
+Heroes,XOne,2011.0,Role-Playing,Atari,2.77,2.09,0.37,-0.0,5.23
+Championship,PS2,2013.0,Strategy,505 Games,0.56,0.32,0.09,-0.0,0.97
+Dark Championship,X360,2012.0,Shooter,Warner Bros,3.14,1.84,0.3,0.0,5.006116210551504
+Heroes,PS3,2014.0,Action,Konami,0.05,0.03,0.01,0.0,0.09
+Racing,PC,2016.0,Puzzle,Electronic Arts,0.52,0.37,0.1,-0.0,0.99
+Pro Simulator,X360,2009.0,Shooter,THQ,1.04,0.79,0.16,0.0,1.98
+Tournament,X360,2005.0,Action,THQ,0.07,0.05,0.01,-0.0,0.13
+Championship,PS4,2010.0,Role-Playing,Konami,0.02,0.01,0.0,-0.0,0.03
+Super Sports,PC,1996.0,Sports,THQ,0.1,0.08,0.01,0.0,0.19
+Racing,WiiU,2020.0,Shooter,Namco Bandai,0.67,0.49,0.13,0.0,1.29
+Extreme Championship,PC,,Puzzle,Electronic Arts,0.49,0.3,0.06,-0.0,0.85
+Sports,PS2,2020.0,Adventure,Sony,0.91,0.55,0.38,0.0,1.9990448031126116
+Warriors,3DS,2018.0,Action,Nintendo,3.14,2.56,1.04,-0.0,6.74
+Shadow Legends,PS3,1993.0,Sports,Nintendo,0.04,0.03,0.01,0.0,0.07
+Adventure,PSP,2005.0,Action,Ubisoft,0.05,0.03,0.0,0.0,0.08
+Simulator,Wii,2001.0,Sports,Ubisoft,0.39,0.31,0.06,0.0,0.75
+Ultimate Championship,PSP,2015.0,Shooter,Take-Two Interactive,0.08,0.05,0.0,0.0,0.13
+Heroes,Wii,2016.0,Action,Nintendo,0.5,0.34,0.03,0.0,0.86
+Dark Warriors,PC,2007.0,Sports,Nintendo,0.38,0.31,0.05,-0.0,0.74
+Shadow Legends,GC,1995.0,Action,,0.01,0.01,0.0,0.0,0.02
+Heroes,N64,2016.0,Sports,Sega,0.11,0.09,0.02,-0.0,0.22
+Halo,PS4,2016.0,Platform,Sony,0.16,0.14,0.01,-0.0,0.31
+Warriors,XOne,2020.0,Platform,Eidos,0.06,0.04,0.01,-0.0,0.11
+Battle,X360,2006.0,Fighting,Take-Two Interactive,0.58,0.37,0.07,-0.0,1.02
+Sports,DS,2019.0,Role-Playing,Ubisoft,0.17,0.12,0.03,0.0,0.3712278647432235
+Strike,XOne,2015.0,Action,Nintendo,0.23,0.13,0.01,0.0,0.37
+Warriors,DS,2020.0,Fighting,Nintendo,0.09,0.08,0.03,0.0,0.19
+Championship,PSP,2015.0,Role-Playing,THQ,0.04,0.03,0.01,-0.0,0.08
+Force,Wii,2010.0,Role-Playing,Electronic Arts,1.68,1.08,0.29,0.0,3.04
+Tournament,X360,2015.0,Action,,0.09,0.05,0.01,-0.0,0.15
+Simulator,Wii,1996.0,Action,Nintendo,0.06,0.03,0.0,0.0,0.09
+Pro Simulator,PS2,2016.0,Sports,Warner Bros,4.97,3.29,0.99,0.0,9.25
+Strike,PSP,2014.0,Strategy,Namco Bandai,3.02,1.88,0.58,-0.0,5.47
+Extreme Heroes,PS3,2009.0,Simulation,Sony,0.04,0.04,0.01,-0.0,0.09
+Simulator,PS3,2018.0,Role-Playing,Nintendo,0.08,0.05,0.01,-0.0,0.14
+Championship,PS3,2018.0,Role-Playing,Nintendo,0.13,0.1,0.01,-0.0,0.23
+Championship,PS3,2019.0,Puzzle,THQ,0.64,0.47,0.13,-0.0,1.24
+Pro Racing,DS,2016.0,Action,Activision,0.49,0.39,0.22,0.0,1.1
+Mega Legends,X360,2011.0,Strategy,THQ,0.33,0.26,0.03,0.0,0.61
+Adventure,Wii,2009.0,Adventure,LucasArts,0.05,0.03,0.0,-0.0,0.09
+Racing,Wii,2007.0,Action,Capcom,5.71,3.34,0.4,0.0,9.45
+Quest,XOne,1995.0,Simulation,Nintendo,0.03,0.03,0.0,0.0,0.06
+Battle,Xbox,2012.0,Shooter,Activision,0.03,0.02,0.0,0.0,0.05
+Turbo Racing,X360,2005.0,Puzzle,Capcom,0.04,0.02,0.0,0.0,0.06
+Force,Wii,2015.0,Adventure,Sony,1.9,1.46,0.27,-0.0,3.63
+Warriors,Xbox,2019.0,Sports,Sony,0.3,0.18,0.03,0.0,0.51
+Championship,Switch,2004.0,Adventure,Sony,0.03,0.02,0.0,0.0,0.06
+Sports,Xbox,2016.0,Sports,THQ,0.06,0.04,0.0,0.0,0.1
+Super Mario Bros II,XOne,2011.0,Sports,Activision,0.28,0.18,0.03,0.0,0.5
+Extreme Heroes,3DS,2017.0,Action,,0.34,0.2,0.09,-0.0,0.64
+Championship,3DS,2017.0,Shooter,THQ,8.33,5.07,2.92,0.0,16.31
+Sports,XOne,2012.0,Role-Playing,Take-Two Interactive,0.21,0.15,0.02,0.0,0.38
+Heroes,XOne,1995.0,Action,Activision,1.16,0.84,0.21,-0.0,2.21
+Simulator,PS2,2015.0,Racing,Electronic Arts,0.42,0.26,0.17,-0.0,0.85
+Tournament,Wii,2005.0,Action,Sega,0.14,0.12,0.01,-0.0,0.27
+Legends,PS2,2009.0,Action,Nintendo,0.98,0.6,0.15,-0.0,1.73
+Championship,PC,2015.0,Puzzle,Namco Bandai,0.01,0.01,0.0,0.0,0.02
+Pro Battle,DS,2005.0,Simulation,Nintendo,1.78,1.32,0.41,-0.0,3.5
+Mega Simulator,WiiU,2019.0,Sports,Konami,0.05,0.04,0.01,0.0,0.1
+Battlefield,Wii,2012.0,Puzzle,Konami,0.1,0.07,0.01,0.0,0.19
+Tournament,PS2,2007.0,Sports,Take-Two Interactive,0.87,0.64,0.21,-0.0,1.73
+Simulator,PS2,2016.0,Platform,Sega,1.42,1.04,0.26,-0.0,2.72
+Heroes,Xbox,,Sports,Ubisoft,0.05,0.04,0.01,0.0,0.1
+Turbo Simulator,3DS,2012.0,Role-Playing,Electronic Arts,0.11,0.07,0.02,-0.0,0.2
+Tournament,Wii,2018.0,Puzzle,Ubisoft,2.52,1.87,0.61,-0.0,4.99
+Championship,PS3,2007.0,Action,Activision,0.26,0.17,0.03,0.0,0.47
+Pro Battle,PS4,1998.0,Platform,Konami,0.16,0.1,0.02,0.0,0.28
+Battle,Switch,2018.0,Adventure,Sony,0.19,0.13,0.04,0.0,0.35
+Strike,PS3,2011.0,Action,Konami,0.23,0.14,0.03,-0.0,0.4
+Sports,X360,2019.0,Shooter,Activision,0.14,0.09,0.02,0.0,0.25
+Quest,PC,2004.0,Adventure,Electronic Arts,0.01,0.0,0.0,0.0,0.01
+Warriors,XOne,2014.0,Role-Playing,Sony,0.22,0.19,0.05,0.0,0.46
+Mega Quest,Wii,2016.0,Role-Playing,Namco Bandai,0.68,0.41,0.09,-0.0,1.17
+Battle,PS4,2008.0,Racing,Ubisoft,0.43,0.29,0.02,0.0,0.74
+Racing,Xbox,2020.0,Role-Playing,Konami,0.11,0.07,0.03,-0.0,0.21
+Sports,XOne,2006.0,Platform,Nintendo,0.21,0.14,0.04,-0.0,0.4
+Tournament,Switch,2013.0,Adventure,Ubisoft,0.25,0.2,0.04,0.0,0.49
+Battle,PS2,2010.0,Action,Atari,0.12,0.1,0.03,-0.0,0.25
+Ultimate Quest,WiiU,1985.0,Platform,Nintendo,0.0,0.0,0.0,0.0,0.0
+Sports,PS3,1995.0,Fighting,Square Enix,0.02,0.01,0.0,-0.0,0.03
+Force,PSP,2005.0,Puzzle,Microsoft,0.18,0.13,0.02,0.0,0.33
+Force,Wii,2006.0,Adventure,Ubisoft,0.08,0.05,0.01,0.0,0.15
+Sports,X360,2010.0,Strategy,Sony,0.1,0.06,0.01,0.0,0.17
+Tournament,PC,2019.0,Racing,Take-Two Interactive,2.42,1.93,0.47,-0.0,4.82
+Battle,PC,2014.0,Role-Playing,Warner Bros,0.46,0.26,0.04,-0.0,0.76
+Racing,PC,,Platform,Take-Two Interactive,0.06,0.04,0.0,0.0,0.1
+Quest,DS,2002.0,Platform,THQ,0.23,0.19,0.1,0.0,0.51
+Turbo Heroes,Switch,2017.0,Action,Nintendo,0.0,0.0,0.0,-0.0,0.01
+Extreme Sports,PS3,2015.0,Adventure,Nintendo,0.04,0.03,0.01,0.0,0.08
+Warriors,PS3,2005.0,Adventure,Atari,0.16,0.09,0.02,0.0,0.27
+Animal Crossing,PS2,1992.0,Action,Nintendo,0.22,0.16,0.07,0.0,0.45
+Ultimate Strike,XOne,2011.0,Shooter,Nintendo,0.06,0.03,0.01,-0.0,0.1
+Tetris,X360,2014.0,Sports,Electronic Arts,0.39,0.26,0.05,0.0,0.7
+Force,Xbox,2018.0,Sports,Electronic Arts,0.03,0.02,0.01,-0.0,0.06
+Extreme Heroes,PC,2015.0,Adventure,Sony,0.37,0.23,0.03,0.0,0.63
+Adventure,PS2,2018.0,Platform,Electronic Arts,1.39,0.99,0.44,0.0,2.82
+Warriors,PSP,2010.0,Racing,,0.03,0.02,0.0,0.0,0.05
+Pro Quest,Wii,2012.0,Action,LucasArts,0.57,0.5,0.06,0.0,1.12
+Legends,PC,2011.0,Shooter,Activision,0.22,0.18,0.04,0.0,0.44
+Strike,XOne,2016.0,Puzzle,Konami,0.13,0.09,0.02,0.0,0.23
+Adventure,Xbox,2011.0,Adventure,Konami,0.05,0.03,0.01,-0.0,0.1
+Super Adventure,PS4,2010.0,Puzzle,Capcom,0.55,0.39,0.04,-0.0,0.97
+Adventure,Wii,2001.0,Shooter,Electronic Arts,0.1,0.07,0.01,0.0,0.17
+Championship,Wii,2019.0,Sports,Microsoft,2.58,1.95,0.17,-0.0,4.7
+Shadow Racing,DS,2015.0,Action,Nintendo,8.44,6.29,2.46,0.0,17.19
+Ultimate Adventure,PS2,,Platform,Activision,0.53,0.38,0.23,-0.0,1.14
+Battle,PC,2001.0,Action,Activision,0.1,0.06,0.01,0.0,0.17
+Simulator,PSV,2017.0,Sports,Nintendo,0.16,0.1,0.02,0.0,0.28
+Mega Warriors,Wii,2016.0,Platform,Electronic Arts,0.1,0.08,0.01,0.0,0.19
+Championship,PC,2008.0,Simulation,Take-Two Interactive,0.17,0.11,0.02,0.0,0.3
+Racing,PSP,2019.0,Role-Playing,Sony,0.25,0.18,0.02,-0.0,0.44
+Quest,DS,2008.0,Puzzle,Sony,0.31,0.21,0.11,0.0,0.63
+Battle,DS,2001.0,Platform,THQ,1.73,1.58,0.44,-0.0,3.74
+Mega Racing,Wii,2016.0,Sports,Ubisoft,0.1,0.06,0.01,-0.0,0.18
+Mega Quest,PS3,2012.0,Action,Nintendo,0.24,0.16,0.03,0.0,0.43
+Super Warriors,PS2,2010.0,Puzzle,Activision,0.16,0.11,0.02,-0.0,0.3
+Force,PS4,2012.0,Action,Namco Bandai,0.36,0.21,0.06,0.0,0.64
+Super Strike,PS4,2017.0,Sports,Electronic Arts,4.24,2.45,0.41,0.0,7.1
+Extreme Sports,Xbox,1997.0,Racing,Square Enix,0.34,0.25,0.08,0.0,0.67
+Sports,PS3,2019.0,Simulation,Electronic Arts,0.18,0.15,0.01,0.0,0.34
+Adventure,Switch,2001.0,Platform,Namco Bandai,0.0,0.0,0.0,-0.0,0.01
+Mega Warriors,PS4,2011.0,Fighting,Take-Two Interactive,0.05,0.03,0.0,0.0,0.09
+Super Heroes,Xbox,2006.0,Adventure,Take-Two Interactive,0.09,0.07,0.01,-0.0,0.16
+Pro Strike,XOne,1998.0,Action,THQ,0.02,0.02,0.0,0.0,0.04
+Sports,XOne,2005.0,Racing,Konami,0.02,0.01,0.0,-0.0,0.03
+Strike,Wii,2015.0,Sports,THQ,0.17,0.09,0.01,0.0,0.28
+Heroes,X360,2020.0,Fighting,Square Enix,0.13,0.09,0.02,-0.0,0.24
+Racing,PS2,2015.0,Platform,,0.34,0.29,0.08,0.0,0.71
+Street Fighter II,Xbox,2013.0,Role-Playing,LucasArts,0.08,0.07,0.01,-0.0,0.17
+Simulator,DS,1985.0,Adventure,Namco Bandai,0.04,0.03,0.01,-0.0,0.08
+Racing,X360,2009.0,Action,Activision,0.01,0.01,0.0,0.0,0.02
+Championship,PS3,2009.0,Shooter,Ubisoft,3.52,2.03,0.74,0.0,6.29
+Simulator,PC,,Role-Playing,Eidos,0.7,0.55,0.16,-0.0,1.4
+Extreme Strike,Wii,2015.0,Platform,Ubisoft,0.47,0.26,0.06,-0.0,0.79
+Pro Force,PS2,2010.0,Shooter,Ubisoft,0.02,0.01,0.01,0.0,0.03
+Tournament,XOne,2006.0,Action,Konami,0.04,0.04,0.01,0.0,0.09
+Championship,PS2,,Action,Sega,0.21,0.16,0.07,0.0,0.44
+Championship,PS3,2005.0,Racing,Namco Bandai,0.18,0.11,0.01,0.0,0.3
+Ultimate Force,DS,1999.0,Shooter,THQ,0.01,0.01,0.0,-0.0,0.02
+Simulator,Wii,2001.0,Action,Atari,5.09,4.84,1.13,-0.0,10.592198433833177
+Shadow Strike,Switch,2007.0,Fighting,Ubisoft,0.01,0.01,0.0,-0.0,0.02
+Adventure,PC,2016.0,Role-Playing,Capcom,0.16,0.09,0.03,0.0,0.29
+Ultimate Championship,PS4,2004.0,Role-Playing,Namco Bandai,1.24,0.93,0.07,-0.0,2.24
+Pro Heroes,PSP,2018.0,Strategy,Capcom,0.01,0.01,0.0,-0.0,0.02
+Adventure,PS4,2014.0,Simulation,Ubisoft,45.75,29.09,8.4,0.0,83.24
+Championship,PS3,2014.0,Sports,Konami,0.17,0.13,0.02,0.0,0.32
+Ultimate Strike,3DS,1985.0,Role-Playing,Namco Bandai,0.02,0.01,0.01,-0.0,0.04
+Dark Heroes,N64,2015.0,Sports,Atari,0.21,0.13,0.05,-0.0,0.39
+Strike,PS4,2014.0,Shooter,Nintendo,1.43,1.33,0.18,-0.0,2.94
+Tournament,3DS,2003.0,Strategy,Sega,0.17,0.13,0.03,-0.0,0.33
+Shadow Sports,Wii,,Platform,Warner Bros,0.21,0.17,0.02,0.0,0.4
+Heroes,XOne,1995.0,Shooter,LucasArts,0.29,0.17,0.03,-0.0,0.49
+Pro Racing,XOne,1996.0,Action,,0.86,0.48,0.17,0.0,1.51
+Tournament,X360,2012.0,Simulation,Activision,0.19,0.12,0.03,0.0,0.33
+Pro Adventure,PC,2012.0,Sports,Electronic Arts,0.25,0.18,0.02,-0.0,0.45
+Mega Tournament,DS,2018.0,Action,Take-Two Interactive,3.14,2.7,0.77,-0.0,6.62
+Simulator,GC,2019.0,Shooter,Ubisoft,0.14,0.11,0.02,-0.0,0.27
+Racing,PS4,1999.0,Action,Sega,1.45,0.93,0.22,0.0,2.6
+Ultimate Tournament,PS4,2016.0,Strategy,Nintendo,0.07,0.06,0.01,-0.0,0.14
+Extreme Force,Wii,2010.0,Adventure,,2.14,1.52,0.53,0.0,4.2
+Warriors,PS3,2009.0,Sports,Nintendo,0.4,0.33,0.08,-0.0,0.81
+Legends,XOne,,Shooter,Capcom,0.01,0.01,0.0,0.0,0.02
+Adventure,PS4,2016.0,Role-Playing,Electronic Arts,0.96,0.79,0.11,-0.0,1.86
+Sports,WiiU,1992.0,Shooter,Atari,0.31,0.18,0.06,-0.0,0.55
+Mario Kart 3,Xbox,1999.0,Role-Playing,Namco Bandai,0.15,0.11,0.03,0.0,0.28
+Simulator,XOne,2014.0,Action,Namco Bandai,13.63,7.87,1.34,0.0,22.85
+Need for Speed 2,PSV,2012.0,Sports,Microsoft,0.19,0.13,0.03,-0.0,0.35
+Warriors,PSP,2003.0,Shooter,Nintendo,3.22,1.96,0.61,0.0,5.8
+Mega Sports,XOne,2002.0,Platform,Take-Two Interactive,0.0,0.0,0.0,0.0,0.0
+Pro Tournament,PS3,1989.0,Fighting,Ubisoft,0.08,0.07,0.01,-0.0,0.16
+Racing,XOne,1999.0,Fighting,,0.08,0.07,0.01,0.0,0.17
+Championship,X360,2003.0,Sports,Nintendo,0.37,0.27,0.02,-0.0,0.67
+Turbo Adventure,PS4,2018.0,Role-Playing,Electronic Arts,0.18,0.15,0.03,0.0,0.36
+Strike,PS2,2015.0,Action,Ubisoft,0.06,0.05,0.02,0.0,0.13
+Championship,DS,2017.0,Action,Capcom,0.04,0.03,0.01,0.0,0.08
+Warriors,Switch,2020.0,Action,Sega,0.1,0.06,0.01,-0.0,0.18
+Legends,PS3,2009.0,Action,Sony,0.15,0.12,0.01,-0.0,0.27
+Championship,Xbox,2012.0,Action,Bethesda,0.02,0.02,0.01,-0.0,0.05
+Tournament,PS3,1999.0,Shooter,Microsoft,0.75,0.49,0.11,-0.0,1.35
+Warriors,GBA,2005.0,Shooter,THQ,0.64,0.46,0.1,0.0,1.19
+Legends,PS3,2015.0,Puzzle,Capcom,0.2,0.13,0.04,0.0,0.36
+Quest,Switch,2014.0,Adventure,Sony,0.02,0.02,0.01,0.0,0.05
+Quest,X360,2020.0,Action,Sony,5.61,3.82,0.74,-0.0,10.17
+Simulator,PS2,2015.0,Role-Playing,,1.04,0.81,0.18,0.0,2.02
+Championship,PS4,1995.0,Sports,Square Enix,0.59,0.48,0.12,-0.0,1.19
+Simulator,Xbox,2020.0,Action,Nintendo,0.05,0.03,0.01,0.0,0.09
+Mega Quest,Wii,1998.0,Shooter,Electronic Arts,0.14,0.11,0.03,-0.0,0.28
+Extreme Championship,X360,2018.0,Shooter,Microsoft,0.53,0.34,0.05,-0.0,0.92
+Heroes,PS4,2008.0,Racing,Sony,0.03,0.03,0.01,-0.0,0.07
+Tournament,PC,1995.0,Action,Electronic Arts,0.18,0.14,0.02,0.0,0.34
+Legends,PS4,1987.0,Role-Playing,Atari,0.08,0.05,0.01,0.0,0.14
+Legends,WiiU,2018.0,Role-Playing,Electronic Arts,2.27,1.38,0.21,-0.0,3.86
+Extreme Warriors,PS4,2018.0,Misc,Electronic Arts,1.84,1.73,0.48,-0.0,4.05
+Extreme Racing,PS4,2015.0,Role-Playing,Microsoft,0.64,0.5,0.15,0.0,1.29
+Pro Championship,Switch,2017.0,Fighting,THQ,1.18,0.77,0.24,-0.0,2.2
+Dark Adventure,PS2,2018.0,Sports,Sony,0.9,0.49,0.25,0.0,1.64
+Tournament,X360,,Racing,Capcom,0.04,0.03,0.0,-0.0,0.06
+Turbo Sports,Switch,2006.0,Racing,Electronic Arts,0.19,0.19,0.02,0.0,0.4
+Super Strike,XOne,2014.0,Platform,Konami,0.0,0.0,0.0,-0.0,0.01
+Strike,DS,2015.0,Action,THQ,0.17,0.09,0.04,-0.0,0.3
+Racing,PS3,2019.0,Action,Bethesda,0.33,0.27,0.06,-0.0,0.66
+Legends,3DS,2020.0,Racing,Sony,0.15,0.13,0.05,0.0,0.33
+Strike,PS4,2014.0,Action,Activision,1.92,1.54,0.17,0.0,3.63
+Super Racing,WiiU,1999.0,Sports,Microsoft,0.28,0.15,0.04,-0.0,0.48
+Heroes,PS4,2009.0,Action,Electronic Arts,0.16,0.13,0.01,0.0,0.31
+Quest,PS2,2020.0,Adventure,Nintendo,0.48,0.29,0.07,-0.0,0.84
+Heroes,X360,2011.0,Fighting,Electronic Arts,4.12,2.42,0.64,0.0,7.19
+Tournament,PS3,2005.0,Racing,,0.45,0.3,0.05,0.0,0.8
+Mega Quest,PSP,2012.0,Sports,Activision,0.4,0.27,0.09,-0.0,0.76
+Turbo Championship,Switch,2012.0,Sports,Take-Two Interactive,0.61,0.49,0.11,0.0,1.21
+Turbo Racing,PS2,2009.0,Shooter,Sega,0.16,0.11,0.05,0.0,0.32
+Simulator,Wii,2011.0,Racing,Microsoft,0.21,0.17,0.04,-0.0,0.41
+Heroes,Xbox,2009.0,Sports,Electronic Arts,0.03,0.02,0.01,0.0,0.05
+Heroes,PC,2019.0,Simulation,505 Games,0.13,0.07,0.02,0.0,0.22
+Force,PS2,2010.0,Platform,THQ,0.09,0.08,0.04,-0.0,0.2
+Ultimate Legends,XOne,2016.0,Sports,Rockstar Games,0.09,0.08,0.02,-0.0,0.19
+Ultimate Strike,DS,2007.0,Sports,THQ,0.46,0.31,0.14,0.0,0.9
+Extreme Sports,PC,2006.0,Sports,Konami,0.08,0.05,0.01,-0.0,0.14
+Battle,WiiU,2009.0,Fighting,Sega,0.04,0.04,0.0,0.0,0.08
+Battle,Wii,2017.0,Adventure,Electronic Arts,1.94,1.07,0.3,-0.0,3.31
+Force,PS2,2016.0,Fighting,Electronic Arts,11.61,5.98,3.79,-0.0,21.38
+Strike,Wii,2015.0,Racing,Sega,2.07,1.33,0.45,0.0,3.85
+Force,PS3,2013.0,Shooter,Nintendo,1.94,1.28,0.25,-0.0,3.47
+Heroes,Wii,2014.0,Sports,Sony,0.91,0.7,0.09,0.0,1.71
+Extreme Quest,Wii,2017.0,Action,Nintendo,0.06,0.06,0.0,-0.0,0.12929958233751976
+Strike,PS3,2014.0,Action,Sony,0.1,0.07,0.01,-0.0,0.18
+Quest,PS4,2018.0,Sports,Activision,0.74,0.47,0.1,-0.0,1.3
+Adventure,PS2,2019.0,Sports,Nintendo,0.14,0.09,0.03,-0.0,0.25
+Extreme Simulator,DS,2019.0,Sports,Sega,7.61,4.61,0.83,-0.0,13.05
+Strike,X360,2013.0,Role-Playing,Sony,0.23,0.13,0.02,0.0,0.39
+Simulator,XOne,2005.0,Sports,LucasArts,0.07,0.07,0.01,0.0,0.15
+Turbo Heroes,Switch,2005.0,Racing,Electronic Arts,0.12,0.1,0.02,-0.0,0.24
+Sports,Xbox,2018.0,Platform,Ubisoft,0.09,0.06,0.02,0.0,0.17
+Extreme Legends,PS3,1992.0,Racing,THQ,1.1,0.77,0.17,-0.0,2.04
+Strike,PS4,2005.0,Action,Activision,0.52,0.46,0.04,0.0,1.02
+Tournament,PSP,2008.0,Misc,Capcom,0.06,0.04,0.0,0.0,0.11
+Battle,PS3,2006.0,Fighting,Nintendo,0.02,0.02,0.0,-0.0,0.04
+Simulator,Wii,2007.0,Puzzle,Electronic Arts,0.09,0.06,0.02,0.0,0.16
+Turbo Battle,PS4,2001.0,Shooter,THQ,7.04,3.95,0.32,0.0,13.132724174503089
+Legends,DS,1987.0,Fighting,Namco Bandai,0.05,0.03,0.01,0.0,0.08
+Tournament,DS,2010.0,Role-Playing,Sony,0.73,0.55,0.27,0.0,1.55
+Quest,PS2,,Adventure,Ubisoft,0.04,0.03,0.02,-0.0,0.09
+Legends,XOne,2009.0,Racing,Eidos,0.02,0.01,0.0,-0.0,0.04
+Pro Legends,3DS,1994.0,Sports,Sony,0.01,0.0,0.0,0.0,0.01
+Sports,Wii,,Role-Playing,Nintendo,5.94,3.59,0.37,0.0,9.89
+Strike,PS3,2015.0,Action,Nintendo,1.65,1.01,0.17,0.0,2.83
+Turbo Force,PC,1994.0,Simulation,Sega,0.36,0.26,0.07,0.0,0.69
+Heroes,XOne,2020.0,Simulation,,0.02,0.01,0.0,0.0,0.04
+Adventure,PS2,1999.0,Adventure,Take-Two Interactive,2.03,1.23,0.48,0.0,3.74
+Racing,DS,2016.0,Shooter,THQ,2.02,1.91,0.48,0.0,4.41
+Simulator,3DS,2020.0,Adventure,Sony,0.3,0.18,0.05,0.0,0.53
+Super Strike,X360,2005.0,Sports,Sony,1.83,1.04,0.28,0.0,3.15
+Simulator,PS3,1996.0,Role-Playing,Nintendo,0.06,0.05,0.01,-0.0,0.12
+Force,PS3,2019.0,Racing,Electronic Arts,1.42,0.9,0.17,0.0,2.5
+Quest,PC,2006.0,Action,Sega,0.01,0.01,0.0,0.0,0.02
+Mega Legends,Wii,2011.0,Sports,Microsoft,6.06,4.59,1.33,-0.0,11.98
+Heroes,DS,2009.0,Sports,Konami,0.2,0.12,0.08,0.0,0.4
